@@ -18,4 +18,4 @@
 
 ![NKUST](nkust.png)
 
-[![麻雀-李榮浩](https://image.youtube.com/vi/v=2l4x_TvBKiw/0.jpg)](https://www.youtube.com/watch?v=2l4x_TvBKiw "麻雀-李榮浩")
+[![麻雀-李榮浩](https://img.youtube.com/vi/v=2l4x_TvBKiw/0.jpg)](https://www.youtube.com/watch?v=2l4x_TvBKiw "麻雀-李榮浩")
